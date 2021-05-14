@@ -1,6 +1,6 @@
  Hey im Auvec-Code
  I am learning Cbase
- My Knowledge base is structured around CSS HTML C# (slight C++) and PHP
+ My Knowledge base is structured around CSS HTML C# (slight C++) and Java
  Stay tuned for repository URLs based off my projects
  
 <!---
