@@ -1,7 +1,6 @@
  Hey im Auvec-Code
  I am learning Cbase
- My Knowledge base is structured around CSS HTML C# (slight C++) and JS
- Stay tuned for repository URLs based off my projects
+ My Knowledge base is structured on C++/C/C# and WebAPI Fundamentals
  
 <!---
 Auvec-Code/Auvec-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
