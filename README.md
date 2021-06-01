@@ -1,5 +1,4 @@
  Hey im Auvec-Code
- I am learning Cbase
  My Knowledge base is structured on C++/C/C# and WebAPI Fundamentals
  
 <!---
